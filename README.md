@@ -11,6 +11,10 @@ Strmify is your all-in-one platform to discover and stream movies and TV shows t
 ## NOTE
 This repo is only for tracking the issues and hosting the IPA
 
+## Store Listing
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vijayyuvi.strmify)
+[![Install via AltStore](https://img.shields.io/badge/AltStore-4CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vjdev1212/strmify-public/releases)
+
 ## Screenshots
 
 ### iPhone
