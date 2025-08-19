@@ -14,6 +14,8 @@ This repository is created solely for tracking issues and hosting releases.
 ## Store Listing
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vijayyuvi.strmify)
 [![Install via AltStore](https://img.shields.io/badge/AltStore-4CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vjdev1212/strmify-public/releases)
+[![Install via SideStore](https://img.shields.io/badge/SideStore-A020F0?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/vjdev1212/strmify-public/releases)
+
 
 ## Screenshots
 
