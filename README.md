@@ -1,12 +1,12 @@
 # Strmify
-Strmify is your all-in-one platform to discover and stream movies and TV shows through add-ons with powerful media players. Configure your preferred addon to unlock access to a vast library of content. Search and explore detailed movie and TV show information, then stream with your favourite media players.
+Strmify is your all-in-one platform to discover and stream movies and TV shows through add-ons with a powerful media player. Configure your preferred add-ons to unlock access to a vast library of content. Search and explore detailed movie and TV show information, then stream with your favourite media player.
 
 ## Components
-  1. TMDB - Powers the app by providing metadata.
-  2. Stremio Addons - Required for streaming the contents. (Torrent or Direct Links).
-  3. Stremio Service - Connect when you want to stream torrents remotely.
-  4. Trakt - Tracks the watch progress and provides personalised catalogues.
-  5. Media Players - For supporting the wide variety of formats.
+1. TMDB – Provides the metadata that powers the app.
+2. Stremio Add-ons – Required for streaming content (via torrents or direct links).
+3. Stremio Service – Enables remote torrent streaming.
+4. Trakt – Tracks your watch progress and offers personalised catalogues.
+5. Media Players – Support a wide variety of formats.
 
 ## NOTE
 This repo is only for tracking the issues and hosting the IPA
