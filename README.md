@@ -1,5 +1,5 @@
 # Strmify
-Strmify is your all-in-one platform to discover and stream movies and TV shows through powerful add-ons and media players. Configure your preferred addon to unlock access to a vast library of content. Search and explore detailed movie and TV show information, then stream with the powerful media players.
+Strmify is your all-in-one platform to discover and stream movies and TV shows through add-ons with powerful media players. Configure your preferred addon to unlock access to a vast library of content. Search and explore detailed movie and TV show information, then stream with the powerful media players.
 
 ## Components
   1. TMDB - Powers the app by providing metadata.
