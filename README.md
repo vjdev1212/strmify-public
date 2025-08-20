@@ -9,7 +9,8 @@ Strmify is your all-in-one platform to discover and stream movies and TV shows t
 5. Media Players – Support a wide variety of formats.
 
 ## NOTE
-This repository is created solely for tracking issues and hosting releases.
+1. This repository is created solely for tracking issues and hosting releases.
+2. No Plans to support Anime content. Please feel free to use some other apps.
 
 ## Store Listing
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vijayyuvi.strmify)
